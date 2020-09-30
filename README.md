@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: MAILTO: linykwork@yeah.net OR WechatOfficialAccount: ReneeDressOfficial
 - ⚡ Fun fact: Wanna be a Interactive/Digital Media Creator in both coding and designing fields.
 
-![ReneeDress's github stats](https://github-readme-stats.vercel.app/api?username=reneedress&count_private=true)
+![ReneeDress's github stats](https://github-readme-stats.vercel.app/api?username=ReneeDress&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reneedress&layout=compact)](https://github.com/reneedress/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reneedress&layout=compact)](https://github.com/ReneeDress/github-readme-stats)
+
+[![ReneeDress's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ReneeDress)](https://github.com/ReneeDress/github-readme-stats)
