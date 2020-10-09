@@ -25,6 +25,15 @@ Here are some ideas to get you started:
 
 ![ReneeDress's github stats](https://github-readme-stats.vercel.app/api?username=ReneeDress&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reneedress&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://yijunstudio.xyz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reneedress&layout=compact" />
+</a>
+<a href="https://yijunstudio.xyz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ReneeDress" />
+</a>
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reneedress&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+--><!--
 [![ReneeDress's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ReneeDress)](https://github.com/anuraghazra/github-readme-stats)
+-->
