@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a href="https://yijunstudio.xyz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reneedress&layout=compact" />
 </a>
-<a href="https://yijunstudio.xyz">
+<a href="https://wakatime.com/@ReneeDress">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ReneeDress" />
 </a>
 
