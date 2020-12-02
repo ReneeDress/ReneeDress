@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my PERSONAL miniprogram and some other FULL-STACK projects.
 - 🌱 I’m currently learning Modern Front-End, BASIC Back-End and Database courses. (Self-learning :|
 - 💬 Ask me about Shanghai Culture or SHU lifestyle. (Just kidding cuz nobody cares
-- 📫 How to reach me: MAILTO: linykwork@yeah.net OR WechatOfficialAccount: ReneeDressOfficial
+- 📫 How to reach me: MAILTO: linyijun@yijunstudio.xyz OR WechatOfficialAccount: ReneeDressOfficial
 - ⚡ Fun fact: Wanna be a Interactive/Digital Media Creator in both coding and designing fields.
 
 ![ReneeDress's github stats](https://github-readme-stats.vercel.app/api?username=ReneeDress&count_private=true)
