@@ -23,15 +23,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: MAILTO: linyijun@yijunstudio.xyz OR WechatOfficialAccount: ReneeDressOfficial
 - ⚡ Fun fact: Wanna be a Interactive/Digital Media Creator in both coding and designing fields.
 
-![ReneeDress's github stats](https://github-readme-stats.vercel.app/api?username=ReneeDress&count_private=true)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+<!--
+![ReneeDress's github stats](https://github-readme-stats.vercel.app/api?username=ReneeDress&count_private=true)
+-->
+<!--
 <a href="https://yijunstudio.xyz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reneedress&layout=compact" />
 </a>
 <a href="https://wakatime.com/@ReneeDress">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ReneeDress" />
 </a>
-
+-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reneedress&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --><!--
