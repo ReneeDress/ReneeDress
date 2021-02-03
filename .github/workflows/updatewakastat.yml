@@ -1,11 +1,11 @@
 
-  # Allows you to run this workflow manually from the Actions tab
+# Allows you to run this workflow manually from the Actions tab
 
 name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
+    # Runs at 12am UTC+8
     - cron: '00 16 * * *'
   workflow_dispatch:
 jobs:
