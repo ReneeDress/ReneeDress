@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my PERSONAL miniprogram and some other FULL-STACK projects.
-- 🌱 I’m currently learning Modern Front-End, BASIC Back-End and Database courses. (Self-learning :|
+- 🔭 I’m currently working on my PERSONAL program and some other FULL-STACK projects.
+- 🌱 I’m currently learning Modern Front-End and BASIC Back-End. (Self-learning :| (wiz POOR Basic Knowledge
 - 💬 Ask me about Shanghai Culture or SHU lifestyle. (Just kidding cuz nobody cares
 - 📫 How to reach me: MAILTO: linyijun@yijunstudio.xyz OR WechatOfficialAccount: ReneeDressOfficial
 - ⚡ Fun fact: Wanna be a Interactive/Digital Media Creator in both coding and designing fields.
