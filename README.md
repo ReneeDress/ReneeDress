@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Modern Front-End and BASIC Back-End. (Self-learning :| (wiz POOR Basic Knowledge
 - 💬 Ask me about Shanghai Culture or SHU lifestyle. (Just kidding cuz nobody cares
 - 📫 How to reach me: MAILTO: linyijun@yijunstudio.xyz OR WechatOfficialAccount: ReneeDressOfficial
-- ⚡ Fun fact: Wanna be a Interactive/Digital Media Creator in both coding and designing fields.
+- ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
