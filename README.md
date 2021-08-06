@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  > 
 > 📜 27 Public Repositories 
  > 
-> 🔑 14 Private Repositories  
+> 🔑 15 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
