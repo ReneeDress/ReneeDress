@@ -44,18 +44,19 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   8 mins              ███████████████████████░░   94.39% 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.61%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 05/02/2022
+ Last Updated on 06/02/2022
 <!--END_SECTION:waka-->
 
 <!--
