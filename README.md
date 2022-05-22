@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 149 Contributions in the Year 2022
+> 🏆 150 Contributions in the Year 2022
  > 
 > 📦 8.4 MB Used in GitHub's Storage 
  > 
@@ -44,23 +44,23 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      9 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   36.04% 
-Python                   6 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.4% 
-TypeScript               5 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   22.38% 
-JavaScript               3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
-Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
+TypeScript               7 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.74% 
+TeX                      7 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.39% 
+Python                   6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69% 
+JavaScript               3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
+SCSS                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
 
 🔥 Editors: 
-VS Code                  16 hrs 47 mins      ████████████████░░░░░░░░░   64.08% 
-Sublime Text             9 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.92%
+VS Code                  18 hrs 3 mins       █████████████████░░░░░░░░   70.61% 
+Sublime Text             7 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.39%
 
 💻 Operating System: 
-Mac                      26 hrs 12 mins      █████████████████████████   100.0%
+Mac                      25 hrs 35 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 21/05/2022
+ Last Updated on 22/05/2022
 <!--END_SECTION:waka-->
 
 <!--
