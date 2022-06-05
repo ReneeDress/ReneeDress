@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 150 Contributions in the Year 2022
+> 🏆 169 Contributions in the Year 2022
  > 
 > 📦 8.4 MB Used in GitHub's Storage 
  > 
@@ -44,23 +44,23 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      32 hrs 58 mins      ███████████████████░░░░░░   79.25% 
-JavaScript               3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.22% 
-TypeScript               2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
-Python                   1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
-Other                    55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
+TeX                      26 hrs 29 mins      ██████████████████░░░░░░░   72.12% 
+TypeScript               3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
+JavaScript               3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.31% 
+Other                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+Python                   59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72%
 
 🔥 Editors: 
-Sublime Text             33 hrs 24 mins      ████████████████████░░░░░   80.32% 
-VS Code                  8 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68%
+Sublime Text             26 hrs 55 mins      ██████████████████░░░░░░░   73.26% 
+VS Code                  9 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   26.74%
 
 💻 Operating System: 
-Mac                      41 hrs 36 mins      █████████████████████████   100.0%
+Mac                      36 hrs 44 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 04/06/2022
+ Last Updated on 05/06/2022
 <!--END_SECTION:waka-->
 
 <!--
