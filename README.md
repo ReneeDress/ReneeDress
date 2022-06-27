@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.5%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 184 Contributions in the Year 2022
+> 🏆 185 Contributions in the Year 2022
  > 
 > 📦 8.4 MB Used in GitHub's Storage 
  > 
@@ -59,7 +61,7 @@ Mac                      3 hrs 44 mins       ███████████�
 ```
 
 
- Last Updated on 26/06/2022
+ Last Updated on 27/06/2022 16:39:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
