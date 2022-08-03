@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my PERSONAL program and some other FULL-STACK projects.
 - 🌱 I’m currently learning Modern Front-End and BASIC Back-End. (Self-learning :| (wiz POOR Basic Knowledge
-- 💬 Ask me about Shanghai Culture or SHU lifestyle. (Just kidding cuz nobody cares
+- 💬 Ask me about Shanghai Culture.
 - 📫 How to reach me: MAILTO: linyijun@yijunstudio.xyz OR WechatOfficialAccount: ReneeDressOfficial
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
