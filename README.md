@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C675%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
@@ -57,7 +57,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/08/2022 16:39:20 UTC
+ Last Updated on 19/08/2022 16:38:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
