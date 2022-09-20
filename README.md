@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C086%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C093%20hrs%208%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
@@ -46,21 +46,22 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 11 mins       ███████████████████░░░░░░   76.18% 
-SCSS                     1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   22.45% 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85% 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
+TypeScript               13 hrs 59 mins      ██████████████████░░░░░░░   73.59% 
+SCSS                     4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88% 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  8 hrs 8 mins        █████████████████████████   100.0%
+VS Code                  19 hrs 1 min        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 8 mins        █████████████████████████   100.0%
+Mac                      19 hrs 1 min        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 19/09/2022 16:38:03 UTC
+ Last Updated on 20/09/2022 16:37:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
