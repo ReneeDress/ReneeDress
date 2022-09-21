@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C093%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C098%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
@@ -61,7 +61,7 @@ Mac                      19 hrs 1 min        ███████████�
 ```
 
 
- Last Updated on 20/09/2022 16:37:22 UTC
+ Last Updated on 21/09/2022 16:40:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
