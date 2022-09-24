@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C111%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C115%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 206 Contributions in the Year 2022
+> 🏆 207 Contributions in the Year 2022
  > 
 > 📦 8.5 MB Used in GitHub's Storage 
  > 
@@ -46,22 +46,22 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               24 hrs 15 mins      ███████████████████░░░░░░   79.4% 
-SCSS                     6 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.78% 
-Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49% 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+TypeScript               22 hrs 59 mins      ████████████████████░░░░░   80.18% 
+SCSS                     5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.16% 
+Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  30 hrs 33 mins      █████████████████████████   100.0%
+VS Code                  28 hrs 39 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      30 hrs 33 mins      █████████████████████████   100.0%
+Mac                      28 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 23/09/2022 16:39:14 UTC
+ Last Updated on 24/09/2022 16:37:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
