@@ -46,19 +46,18 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 58 mins       ███████████████████████░░   93.2% 
-SCSS                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.8%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 15 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 15 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 06/10/2022 16:43:39 UTC
+ Last Updated on 07/10/2022 16:41:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
