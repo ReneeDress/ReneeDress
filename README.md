@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C136%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C141%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 207 Contributions in the Year 2022
+> 🏆 183 Contributions in the Year 2022
  > 
 > 📦 8.5 MB Used in GitHub's Storage 
  > 
@@ -46,19 +46,19 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 30 mins        ██████████████████████░░░   91.01% 
-SCSS                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.99%
+TypeScript               6 hrs 45 mins       ███████████████████████░░   93.26% 
+SCSS                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.74%
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.0%
+VS Code                  7 hrs 14 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 39 mins        █████████████████████████   100.0%
+Mac                      7 hrs 14 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 10/10/2022 16:41:53 UTC
+ Last Updated on 11/10/2022 16:45:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
