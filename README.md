@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C229%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C235%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 184 Contributions in the Year 2022
+> 🏆 189 Contributions in the Year 2022
  > 
 > 📦 8.5 MB Used in GitHub's Storage 
  > 
@@ -46,22 +46,22 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               9 hrs 39 mins       ████████████████░░░░░░░░░   67.3% 
-Gherkin                  1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
-JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.05% 
-JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
+TypeScript               11 hrs 10 mins      ██████████████████░░░░░░░   73.87% 
+Gherkin                  2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
+JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92% 
+LESS                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
 
 🔥 Editors: 
-VS Code                  14 hrs 21 mins      █████████████████████████   100.0%
+VS Code                  15 hrs 7 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      14 hrs 21 mins      █████████████████████████   100.0%
+Mac                      15 hrs 7 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/11/2022 16:33:58 UTC
+ Last Updated on 17/11/2022 16:35:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
