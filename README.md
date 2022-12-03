@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C267%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C270%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 201 Contributions in the Year 2022
+> 🏆 211 Contributions in the Year 2022
  > 
 > 📦 8.5 MB Used in GitHub's Storage 
  > 
@@ -46,22 +46,22 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 hrs 44 mins      ██████████████░░░░░░░░░░░   56.16% 
-YAML                     2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-SCSS                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.15% 
-LESS                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.57% 
-JSON                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49%
+TypeScript               11 hrs 4 mins       ████████████░░░░░░░░░░░░░   51.15% 
+Python                   2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55% 
+YAML                     2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13% 
+SCSS                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.44% 
+JSON                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36%
 
 🔥 Editors: 
-VS Code                  20 hrs 54 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 38 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      20 hrs 54 mins      █████████████████████████   100.0%
+Mac                      21 hrs 38 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 02/12/2022 16:29:54 UTC
+ Last Updated on 03/12/2022 16:30:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
