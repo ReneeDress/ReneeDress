@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C360%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C363%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in the Year 2023
+> 🏆 2 Contributions in the Year 2023
  > 
 > 📦 8.6 MB Used in GitHub's Storage 
  > 
@@ -46,18 +46,22 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 42 mins        ██████████████░░░░░░░░░░░   55.78% 
+JavaScript               47 mins             ██████░░░░░░░░░░░░░░░░░░░   26.18% 
+Gherkin                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 3 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 30/01/2023 16:30:41 UTC
+ Last Updated on 31/01/2023 16:32:18 UTC
 <!--END_SECTION:waka-->
 
 <!--
