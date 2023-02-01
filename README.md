@@ -24,19 +24,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C363%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C370%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2 Contributions in the Year 2023
+> 🏆 4 Contributions in the Year 2023
  > 
 > 📦 8.6 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 20 Private Repositories  
  > 
@@ -46,22 +46,22 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 42 mins        ██████████████░░░░░░░░░░░   55.78% 
-JavaScript               47 mins             ██████░░░░░░░░░░░░░░░░░░░   26.18% 
-Gherkin                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62%
+TypeScript               3 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   36.21% 
+JSON                     2 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.86% 
+JavaScript               1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
+YAML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
+Gherkin                  49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.48%
 
 🔥 Editors: 
-VS Code                  3 hrs 3 mins        █████████████████████████   100.0%
+VS Code                  9 hrs 37 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 3 mins        █████████████████████████   100.0%
+Mac                      9 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 31/01/2023 16:32:18 UTC
+ Last Updated on 01/02/2023 16:30:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
