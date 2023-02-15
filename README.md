@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C402%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C403%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 16 Contributions in the Year 2023
+> 🏆 18 Contributions in the Year 2023
  > 
 > 📦 8.6 MB Used in GitHub's Storage 
  > 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  > 
 > 📜 29 Public Repositories 
  > 
-> 🔑 20 Private Repositories  
+> 🔑 21 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -46,22 +46,22 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.74% 
-JavaScript               2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-JSON                     2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
-YAML                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.83% 
-Other                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.12%
+Python                   4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.14% 
+JavaScript               2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
+XML                      1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
+JSON                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
+Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.07%
 
 🔥 Editors: 
-VS Code                  17 hrs 34 mins      █████████████████████████   100.0%
+VS Code                  15 hrs 40 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      17 hrs 34 mins      █████████████████████████   100.0%
+Mac                      15 hrs 40 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 14/02/2023 16:33:57 UTC
+ Last Updated on 15/02/2023 16:33:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
