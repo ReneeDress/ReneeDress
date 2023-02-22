@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C417%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C421%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 19 Contributions in the Year 2023
+> 🏆 24 Contributions in the Year 2023
  > 
 > 📦 8.6 MB Used in GitHub's Storage 
  > 
@@ -46,22 +46,22 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 43 mins       ████████████████░░░░░░░░░   67.05% 
-JavaScript               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.1% 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
-XML                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.71%
+Python                   9 hrs 40 mins       █████████████░░░░░░░░░░░░   54.11% 
+YAML                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.85% 
+JSON                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
+Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
+JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.44%
 
 🔥 Editors: 
-VS Code                  14 hrs 29 mins      █████████████████████████   100.0%
+VS Code                  17 hrs 52 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      14 hrs 29 mins      █████████████████████████   100.0%
+Mac                      17 hrs 52 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 21/02/2023 16:30:42 UTC
+ Last Updated on 22/02/2023 16:33:33 UTC
 <!--END_SECTION:waka-->
 
 <!--
