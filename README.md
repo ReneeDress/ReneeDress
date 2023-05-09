@@ -24,42 +24,56 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Wanna be an Interactive/Digital Media Creator in both coding and designing fields.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C613%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C620%20hrs%2024%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 46 Contributions in the Year 2023
- > 
 > 📦 8.8 MB Used in GitHub's Storage 
+ > 
+> 🏆 46 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
  > 
-> 🔑 21 Private Repositories  
+> 🔑 21 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-JSON                     21 mins             ██████████████░░░░░░░░░░░   59.33% 
-Bash                     14 mins             █████████░░░░░░░░░░░░░░░░   38.75% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
-
-🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      37 mins             █████████████████████████   100.0%
-
+Monday                   101 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Tuesday                  127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Wednesday                166 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Thursday                 204 commits         █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Friday                   218 commits         ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Saturday                 78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Sunday                   85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 ```
 
 
- Last Updated on 08/05/2023 16:28:51 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+JSON                     55 mins             ██████████████░░░░░░░░░░░   56.62 % 
+XML                      15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Bash                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Java                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+
+🔥 Editors: 
+VS Code                  1 hr 37 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      1 hr 37 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 09/05/2023 14:36:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
